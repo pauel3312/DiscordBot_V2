@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<commands>
+    <help type="text" about="donne toutes les commandes" exec="info" args=""/>
+    <fabio type="text"
+          args="https://pm1.narvii.com/7304/3dd9ad27c40bbc0022519251a3d4f9b22a72b277r1-226-223v2_00.jpg"
+          about="Fabio. point."
+          exec="str"/>
+    <cringe type="text"
+          args="['https://c.tenor.com/EEqbeL495EkAAAAM/cringe.gif',
+                  'https://c.tenor.com/WarZqLGgTHoAAAAM/oh-no-cringe-cringe.gif']"
+          about="Du cringe! Avec le mot Cringe dedans! Tout simplement...   Inoui"
+          exec="get_gif_from_list"/>
+    <chad type="text"
+          args="['https://tenor.com/view/gigachad-chad-gif-20773266',
+                  'https://tenor.com/view/female-chad-female-gigachad-stacy-gigastacy-gigachadess-gif-23804395',
+                  'https://tenor.com/view/giga-chad-chad-female-chad-girl-chad-gigachads-gif-24854344']"
+          about="Et voici des Chads!"
+          exec="get_gif_from_list"/>
+    <cheh type="text"
+          args="['https://c.tenor.com/Md8nfXeoCPYAAAAd/pokemon-chammal.gif',
+                 'https://c.tenor.com/YZKtPr8gPoQAAAAC/cheh-chehh.gif',
+                 'https://c.tenor.com/zJe691uJBtYAAAAC/conasse-french.gif',
+                 'https://c.tenor.com/VzBQ3JtEbCkAAAAd/pantoufl-twitch.gif',
+                 'https://c.tenor.com/L753HOhWH0cAAAAd/cheh-sheh.gif']"
+          about="Un bon gros **CHEH** ça peut pas faire de mal!"
+          exec="get_gif_from_list"/>
+    <foot type="text"
+          args="https://tenor.com/view/le-football-il-a-chang%C3%A9-gif-25924718"
+          about="𝓵𝓮 𝓯𝓸𝓸𝓽𝓫𝓪𝓵𝓵 𝓲𝓵 𝓪 𝓬𝓱𝓪𝓷𝓰𝓮"
+          exec="str"/>
+
+</commands>
